@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{18953261-AFD2-D700-72AE-8D2705C6ACCD}") = "MIDIBallColorChanger", "MIDIBallColorChanger.csproj", "{FD4CC777-2CB2-AD5E-6C52-869E75EBCC3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD4CC777-2CB2-AD5E-6C52-869E75EBCC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4CC777-2CB2-AD5E-6C52-869E75EBCC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4CC777-2CB2-AD5E-6C52-869E75EBCC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4CC777-2CB2-AD5E-6C52-869E75EBCC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
